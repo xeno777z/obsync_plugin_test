@@ -1,0 +1,7 @@
+- [x] currently we have a manual sync button which will push / pull (sync), this app is ment to be ran in the background without having to manual do anything, just launch as see the magic stuff user would just be on obidisan app once the vault is being set, they will just use obidsan app and expect to sync. we need a auto-sync mechanism which will peridiocally sync the notes to the cloud
+- [ ] verify periodic sync in android with workmanager to 15min interval or what ever is good with work manager (sreyan'k task)
+- [ ] if we have 2 platforms connected to github which is intented to sync notes to android and windows how are we handling merge conflitcs?
+- [ ] obsync3 github app not showing select indiviual repository permission it only had all repository access, we have obsync3 app in the abhi7varshi account, it was installed in xeno777z's account and was working fine, but in codeshreyank's account it only showed all repositories instead o showing both.
+- [ ] match all the features in the desktop to mobile, we need all the features in desktop jvm app to be done same stuffs in android (shreaynak's task)
+- [ ] merge desktop and android keep a single codebase
+- [ ] verify cross platform sync
