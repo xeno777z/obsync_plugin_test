@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
   "vaultId": "bbf591dd-b2a0-43cf-abec-1a2ca3ceffad",
+=======
+  "vaultId": "7626ae2e-326d-40c5-83e9-49ddab2f5644",
+>>>>>>> branch 'main' of https://github.com/xeno777z/obsync_plugin_test.git
   "enableSync": true
 }

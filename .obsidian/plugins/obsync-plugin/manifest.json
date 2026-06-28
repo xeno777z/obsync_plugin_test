@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"id": "obsync-plugin",
 	"name": "ObSync",
@@ -7,4 +8,15 @@
 	"author": "ObSync",
 	"authorUrl": "",
 	"isDesktopOnly": false
+=======
+{
+	"id": "obsync-plugin",
+	"name": "ObSync",
+	"version": "0.1.0",
+	"minAppVersion": "1.0.0",
+	"description": "Sends vault change events to the ObSync app for seamless sync.",
+	"author": "ObSync",
+	"authorUrl": "",
+	"isDesktopOnly": false
+>>>>>>> branch 'main' of https://github.com/xeno777z/obsync_plugin_test.git
 }
