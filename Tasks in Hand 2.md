@@ -5,3 +5,6 @@
 - [ ] match all the features in the desktop to mobile, we need all the features in desktop jvm app to be done same stuffs in android (shreaynak's task)
 - [ ] merge desktop and android keep a single codebase
 - [ ] verify cross platform sync
+- [ ] if we are chaning the vault, we need to change the repository to, current rule is one vault is one repository, if we don't have this rule if we let the user to change the vault they might mix the ntoes in muiltple vaults so we need to ask the user to create one vault per git repsitory!!!
+- [ ] so we should not let user to chagne the repository of the vault as one vault is fixed to git repsoitory, this will volite the rule of one vault one repository, what if the user chaing the repsoitory is form another vault then vaults will have duplicate notes and stuffs, how are we deaing with this??
+- [ ]  [ObSync ERROR] syncNow failed: Remote origin did not advertise Ref for branch main. This Ref may not exist in the remote or may be hidden by permission settings. this might come when the repository is created from the app and doesn't have the branch to push or something?
