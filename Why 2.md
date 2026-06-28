@@ -1,3 +1,3 @@
 Wisheosheoebsoeheoehwk
 
-Nigga why are u
+Nigga why are u gay!!
